@@ -1,0 +1,25 @@
+<resources>
+    <string name="employee_list">Employee List </string>
+    <string name="app_name">Employee Details </string>
+    <string name="employee_detail">Employee Detail </string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="employee_id">Employee Id :</string>
+    <string name="_1">1</string>
+    <string name="mr_right">Mr.Right</string>
+    <string name="suresh_mrright_com">suresh@mrright.com</string>
+    <string name="address">Address :</string>
+    <string name="_4_45_salai_nagar">4/45, Salai Nagar</string>
+    <string name="tirupattur_635853">Tirupattur - 635853</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="_9786196539">9786196539</string>
+    <string name="company_details">Company Details :</string>
+    <string name="mrrightstudios">Mr.Right Studios</string>
+    <string name="company_name">Company Name :</string>
+    <string name="website">Website :</string>
+    <string name="www_mrright_in">www.mrright.in</string>
+    <string name="internetconnected">Connected to Internet</string>
+    <string name="nointernet">No Internet</string>
+    <string name="listempty">List is Empty!</string>
+    <string name="employeeempty">EmployeeDetails are Empty!</string>
+</resources>
